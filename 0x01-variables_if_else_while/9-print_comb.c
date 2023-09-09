@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- *main - prints all possible combination of single-digit numbers.
- *Return: 0
+ * main - prints all possible combination of single-digit numbers.
+ *
+ * Return: 0
  */
-int mainevoid)
+int main(void)
 {
 	int num;
 
@@ -19,4 +20,4 @@ int mainevoid)
 	putchar('\n');
 
 	return (0);
-}
+}}
