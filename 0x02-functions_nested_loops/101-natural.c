@@ -1,6 +1,6 @@
-/*
+/**
  * File: 101-natural.c
- * Auth: Yusunad
+ * Auth: sunny
  */
 
 #include <stdio.h>
@@ -24,3 +24,4 @@ int main(void)
 	printf("%d\n", sum);
 
 	return (0);
+}
